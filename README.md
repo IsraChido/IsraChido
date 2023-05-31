@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **UX Design**
 
-- 👨‍💻 All of my projects are available at [www.israeljimenez.tech](www.israeljimenez.tech)
+- 👨‍💻 All of my projects are available at [www.israeljimenez.me](www.israeljimenez.me)
 
 - 💬 Ask me about **CSS and UX**
 
